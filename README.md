@@ -1,4 +1,5 @@
-# Bayes-Label-Bias (Ongoing) still at idealization stage but the result is promising!
+# Bayes-Label-Bias 
+(Ongoing) still at idealization stage but the result is promising!
 
 Developing a Bayesian Approach to address the issue of label bias. This study focuses on developing a generalizable Bayesian framework for modeling uncertain, subjective, or noisy labels across diverse research domains. While prior work in Bayesian latent-class models, measurement error, weak supervision, and noisy-label learning has addressed domain-specific challenges, this project aims to create a unified approach that can be applied to any label-based study, providing robust inferential insights.
 
