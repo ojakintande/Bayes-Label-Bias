@@ -1,6 +1,6 @@
-# Bayes-Label-Bias
+# Bayes-Label-Bias (Ongoing) still at idealization stage but the result is promising!
 
-#.  Developing a Bayesian Approach to address the issue of label bias. This study focuses on developing a generalizable Bayesian framework for modeling uncertain, subjective, or noisy labels across diverse research domains. While prior work in Bayesian latent-class models, measurement error, weak supervision, and noisy-label learning has addressed domain-specific challenges, this project aims to create a unified approach that can be applied to any label-based study, providing robust inferential insights.
+Developing a Bayesian Approach to address the issue of label bias. This study focuses on developing a generalizable Bayesian framework for modeling uncertain, subjective, or noisy labels across diverse research domains. While prior work in Bayesian latent-class models, measurement error, weak supervision, and noisy-label learning has addressed domain-specific challenges, this project aims to create a unified approach that can be applied to any label-based study, providing robust inferential insights.
 
 # Major components of the study
 
@@ -14,7 +14,9 @@ Unlike weak supervision or ML approaches that separate label modeling from predi
 While measurement-error literature focuses on specific applications, this project provides a general, reproducible methodology for exploring identifiability and prior sensitivity across domains.
 5. Bridging Statistical and ML Communities
 This framework bridges the gap between ML approaches focused on prediction and statistical approaches focused on inference. It can handle large, complex datasets (e.g., EHR, omics) while maintaining rigorous inferential validity.
+
 # Summary of Novelty
+
 Aspect	Existing Work	Proposed Contribution
 Domain	Mostly disease/diagnostic/NLP	Generalizable to any label-based research
 Covariate dependence	Rarely modeled	Systematic covariate-dependent misclassification
